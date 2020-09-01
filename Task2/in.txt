@@ -1,0 +1,7 @@
+Add(2x^2-x+2,-x^2+3x-1);
+Sub(x^2-6);
+Mult(2x^2+2);
+Div(x+3);
+Diff();
+Eval(1);
+
